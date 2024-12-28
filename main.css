@@ -136,7 +136,7 @@ body{
 
     .right1{
         display: block;
-        width: 450px;
+        width: fit-content;
         height: fit-content;
         /* background-color: rgb(243, 242, 241); */
         margin: 10px;
