@@ -134,5 +134,13 @@ body{
         border-radius: 5px;
     }
 
+    .right1{
+        display: block;
+        width: 450px;
+        height: fit-content;
+        /* background-color: rgb(243, 242, 241); */
+        margin: 10px;
+        gap: 10px;
+    }
   }
   
